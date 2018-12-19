@@ -25,7 +25,7 @@
       "pagePath": "pages/theme/theme",
       "iconPath": "images/icon_component.png",
       "selectedIconPath": "images/icon_component_HL.png",
-      "text": "主题日报"
+      "text": "测试页面"
     }]
   },
   "networkTimeout": {
